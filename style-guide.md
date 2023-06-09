@@ -46,7 +46,7 @@ Ionicon
 --ff-manrope: 'Manrope', sans-serif;
 
 --fs-1: calc(2.7rem + 1.38vw);
---fs-2: calc(2.6rem + .66vw);
+--fs-2: calc(2.6rem + 66vw);
 --fs-3: 2.2rem;
 --fs-4: 1.9rem;
 --fs-5: 1.8rem;
